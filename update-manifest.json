@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "MUSE",
-  "latestVersion": "5.1.2",
+  "latestVersion": "5.1.3",
   "minimumSupportedVersion": "5.0.0",
-  "releaseNotes": "MUSE 5.1.2 adds the four-clip Workspace, Phase A musical generation, variation locks, per-track MIDI routing and editing, default Grid alignment, transport-stop synchronization, and cross-platform packaging fixes.",
+  "releaseNotes": "MUSE 1.0.0 is here (the version number restarts at 1.0.0; it follows 5.1.2): code-signed installers, updates that install from inside the plug-in, and a new user guide. Download and install MUSE 1.0.0 from the release page; your license keeps working.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/MUSE-Updates/blob/main/CHANGELOG.md",
-  "downloadPageUrl": "https://gumroad.com/library"
+  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/MUSE-Updates/releases/tag/v1.0.0"
 }

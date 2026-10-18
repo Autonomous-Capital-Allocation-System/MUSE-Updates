@@ -1,5 +1,9 @@
 # MUSE release notes
 
+## 1.0.0 (2026-10-18)
+
+First ACAS Tools release (follows 5.1.2; the version number restarts at 1.0.0). Code-signed installers (Windows Authenticode; macOS Developer ID + notarized), updates that download and install from inside the plug-in, a free trial with no time limit (export, drag-out and preset saving need a license), and a new 1.0 user guide. Download: https://github.com/Autonomous-Capital-Allocation-System/MUSE-Updates/releases/tag/v1.0.0
+
 ## 5.1.2
 
 - Grid now starts enabled in both the main generator and Workspace.
